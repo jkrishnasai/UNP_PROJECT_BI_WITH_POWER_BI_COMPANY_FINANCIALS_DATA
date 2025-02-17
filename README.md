@@ -5,9 +5,13 @@ Completed this Project as a part of my Value Added Course with United Networks o
 Key Highlights:
 
 ✅ Successfully transformed raw financial data into a dynamic and visually compelling Power BI dashboard.
+
 ✅ Leveraged Power BI’s data modeling, DAX functions, and interactive visuals for an in-depth financial analysis.
+
 ✅ Designed a user-friendly interface that allows stakeholders to explore financial insights effortlessly.
+
 ✅ Visualized key financial metrics, including revenue trends, profitability analysis, and expense breakdowns.
+
 ✅ Applied data transformation techniques and optimized data relationships for accurate and efficient reporting.
 
 PROJECT DASHBOARD FILE: https://drive.google.com/file/d/1-Ulz61cJzf1cTUO2iDhbdtfgYSy-efR_/view?usp=sharing
