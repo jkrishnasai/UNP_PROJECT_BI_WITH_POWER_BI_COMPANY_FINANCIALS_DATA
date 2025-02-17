@@ -1,3 +1,5 @@
+# UNP_PROJECT_BI_WITH_POWER_BI_COMPANY_FINANCIALS_DATA
+
 Completed this Project as a part of my Value Added Course with United Networks of Professionals (UNP). In this project, I undertook the task of transforming complex company financial data into an interactive and insightful Power BI dashboard.
 
 Key Highlights:
